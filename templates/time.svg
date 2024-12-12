@@ -138,14 +138,14 @@
        style="display:inline;filter:url(#filter2)"
        transform="matrix(0.80973888,0,0,0.80973888,48.513565,40.498354)" /></g><text
      xml:space="preserve"
-     style="font-size:162.666px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.23203;stroke-dasharray:none;stroke-opacity:1"
+     style="font-size:162.666px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle;fill:#d40000;stroke:#000000;stroke-width:1.23203;stroke-dasharray:none;stroke-opacity:1"
      x="927.62048"
      y="543.87103"
      id="text1"><tspan
        id="tspan1"
        x="927.62048"
        y="543.87103"
-       style="font-size:162.666px;fill:#000000;stroke:none;stroke-width:1.23203;stroke-dasharray:none;stroke-opacity:1">!Month !Day</tspan></text><text
+       style="font-size:162.666px;fill:#d40000;stroke:#000000;stroke-width:1.23203;stroke-dasharray:none;stroke-opacity:1">!Month !Day</tspan></text><text
      xml:space="preserve"
      style="font-size:184px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.23203;stroke-dasharray:none;stroke-opacity:1"
      x="929.35156"
